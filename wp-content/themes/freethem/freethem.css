@@ -1,0 +1,9 @@
+#freethem-custom-header {display:none}
+
+@media (min-width:641px) {
+  #site-header { background-color: #9d79e5; height: 5em }
+  #freethem-custom-header {display:block}
+  #freethem-custom-header img { height: 5em;}
+  #site-header .header-inner { margin-top: -5em }
+  .header-titles {display:none}
+}
